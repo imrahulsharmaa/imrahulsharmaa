@@ -12,7 +12,7 @@ I'm Rahul Vishwakarma, a passionate and enthusiastic software developer with exp
 Here are some highlights of my projects:
 
     AstraLink Kernel With KSU 
-    Description: Easy way to root with breaking safetynet
+    Description: Easy way to root without breaking safetynet
 
 Feel free to explore these projects and provide feedback. Contributions and suggestions are always welcome!
 🌐 Connect with Me

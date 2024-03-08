@@ -19,7 +19,6 @@ Feel free to explore these projects and provide feedback. Contributions and sugg
 
     LinkedIn: [Connect](https://www.linkedin.com/in/imrahulsharmaa/).
     Twitter: [Follow](twitter.com/i_mrahulsharmaa)
-    This site was built using [GitHub Pages](https://pages.github.com/).
 
 Let's connect and collaborate! If you have any questions, ideas, or just want to chat about open source development, feel free to reach out.
 🤝 Open to Collaboration

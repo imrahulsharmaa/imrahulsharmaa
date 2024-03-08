@@ -17,7 +17,7 @@ Here are some highlights of my projects:
 Feel free to explore these projects and provide feedback. Contributions and suggestions are always welcome!
 🌐 Connect with Me
 
-    LinkedIn: [[Connect](https://www.linkedin.com/in/imrahulsharmaa/))](https://www.linkedin.com/in/imrahulsharmaa/)
+    LinkedIn: [Connect](https://www.linkedin.com/in/imrahulsharmaa/).
     Twitter: [Follow](twitter.com/i_mrahulsharmaa)
 
 Let's connect and collaborate! If you have any questions, ideas, or just want to chat about open source development, feel free to reach out.

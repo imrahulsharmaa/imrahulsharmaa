@@ -12,7 +12,7 @@ I'm Rahul Vishwakarma, a passionate and enthusiastic software developer with exp
 Here are some highlights of my projects:
 
     AstraLink Kernel With KSU 
-    Description: Easy way to root without breaking safetynet
+    Description: A Kernel based root solution for Realme Gt Neo 2 (bitra)
 
 Feel free to explore these projects and provide feedback. Contributions and suggestions are always welcome!
 🌐 Connect with Me

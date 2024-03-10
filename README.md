@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Vishwakarma</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDM4Zjd6c2duOWltejFmeWVxMzN6M2ZkaXZxYzhiNzJ4Nm5pOTZwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imrahulsharmaa&label=Profile%20views&color=0e75b6&style=flat" alt="imrahulsharmaa" /> </p>
 
